@@ -1,0 +1,4 @@
+my_file=open("people1_exercise.txt","r)
+my_data=my_file.read()
+print my_data
+my_file.close()
